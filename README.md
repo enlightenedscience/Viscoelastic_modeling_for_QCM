@@ -7,7 +7,6 @@ The Voinova equations come from eqns (24) and (25) in the paper by Voinova: Vion
 59(5), p.391.
 The paper can be found here: https://arxiv.org/pdf/cond-mat/9805266.pdf
 
-An implementation of these equations in Matlab can be found here:
-Reference: https://github.com/88tpm/QCMD/blob/master/Mass-specific%20activity/Internal%20functions/voigt_rel.m
+An implementation of these equations in Matlab can be found here: https://github.com/88tpm/QCMD/blob/master/Mass-specific%20activity/Internal%20functions/voigt_rel.m
 
 The attached python code numerically solves a system of 2 simultaneous nonlinear equations for viscosity and shear modulus given values of frequency shift and energy dissipation.
